@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Red_Team_Verified-red)](https://github.com/Dr-AneeshJoseph/squid)
+(https://github.com/Dr-AneeshJoseph/squid)
 
 ---
 
